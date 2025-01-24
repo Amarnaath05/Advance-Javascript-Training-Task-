@@ -103,10 +103,3 @@ During the training, I worked on solving challenging problems and learned key co
 - **Modify Attributes**  
   Manipulate HTML element attributes using JavaScript.  
 
----
-
-## 📄 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/advanced-js-tasks.git
-   cd advanced-js-tasks
